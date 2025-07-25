@@ -3,3 +3,4 @@ build/classes/
 build/generated/
 build/reports/
 build/tmp/
+.gradle/
