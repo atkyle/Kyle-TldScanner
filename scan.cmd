@@ -1,1 +1,1 @@
- java -jar Kyle-TldScanner-1.0.jar %1
+ java -jar build/libs/Kyle-TldScanner-1.0.jar %1
